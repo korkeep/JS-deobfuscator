@@ -1,0 +1,15 @@
+# Node.js related
+node_modules/
+
+# Environment variable files
+.env
+
+# Log files
+*.log
+
+# Vim temporary files
+*.swp
+
+# Backup files
+*.bak
+*.tmp
